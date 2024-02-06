@@ -2,7 +2,10 @@ if game.PlaceId == 15367026228 then -- anime souls x
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/serpo222/MAINMINECRAFTONEPIECE/main/MODPACK", true))()
 end
 
-if game.PlaceId == 13772394625 then -- anime souls x
+if game.PlaceId == 13772394625 then -- blade ball
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/serpo222/MAINMINECRAFTONEball/main/MODPACKball", true))()
 end
 
+if game.PlaceId == 15776923116 then -- anime punch simulator
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/serpo222/MAINMINECRAFTpunch/main/main", true))()
+end
